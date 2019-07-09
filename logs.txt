@@ -1,0 +1,5 @@
+commit 3b8d543582d99c56026999e4c5066b843e9489f1 (HEAD -> master)
+Author: Gabriel Silva <gabrielberaldo321@gmail.com>
+Date:   Tue Jul 9 16:28:41 2019 -0300
+
+    Criei o arquivo status.txt no meu repositorio
