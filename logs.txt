@@ -3,3 +3,10 @@ Author: Gabriel Silva <gabrielberaldo321@gmail.com>
 Date:   Tue Jul 9 16:28:41 2019 -0300
 
     Criei o arquivo status.txt no meu repositorio
+
+commit 63cdea9173b03fd982c632493e0c149832da8fc6
+Author: Gabriel Silva <gabrielberaldo321@gmail.com>
+Date:   Tue Jul 9 16:31:35 2019 -0300
+
+    Criei o arquivo status.txt no meu repositorio
+    (Alteração 2, errei o nome)
